@@ -3,6 +3,7 @@
 1. 데이터 수집 및 전처리
     1. json_to_yolo_labels
     2. file_merge
+       카테고리별 나누어진 데이터를 하나로 병합
     3. train_val_split
 2. 모델 학습
     1. create_yaml
