@@ -17,6 +17,7 @@ YOLOv8의 커스텀 학습을 위해 3개의 클래스(맨홀, 쓰레기더미, 
 # 개발 결과
 YOLOv8로 학습된 모델은 신뢰도 0.96 ~ 1.0 사이에서 높은 정밀도를 보이고, F1 점수는 신뢰도 0.3 ~ 0.8 범위에 분포한다. 이는 신뢰도 0.3을 모델의 임계값으로 설정할때 최적의 탐지 성능을 보인다. 시스템은 Raspberry Pi의 카메라 모듈을 통해 촬영된 영상에서 위험 물체를 실시간으로 감지한다. 약 30km/h 까지 적절한 탐지가 가능하며, 위험 물체가 감지되면 사용자 경고 시스템이 동작하여 LED가 점등하고 Buzzer가 울린다.
 <img width="358" alt="스크린샷 2024-11-28 오전 4 35 15" src="https://github.com/user-attachments/assets/ca745ed8-a9ae-48f3-971f-d68f9f0552b3">
+<img width="356" alt="스크린샷 2024-11-28 오전 4 37 34" src="https://github.com/user-attachments/assets/4ea082bb-5911-46b1-8c60-e30baf21da18">
 
 
 # 기대효과 및 활용방안
