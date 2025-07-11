@@ -1,7 +1,0 @@
-name:
-- manhole
-- bucket
-- trash
-nc: 3
-train: /content/drive/MyDrive/traffic_hazard/data_split/train/images
-val: /content/drive/MyDrive/traffic_hazard/data_split/val/images
